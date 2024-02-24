@@ -2,7 +2,8 @@
 
 ## Description 
 
-A collection of programming books recommended by MIT xPro, created programmatically onto bootstrap cards. 
+A collection of programming books recommended by MIT xPro, created programmatically onto bootstrap cards.
+![Book list](https://github.com/isabelleting/Programming-Book-Collection/assets/144510802/0e1bdf54-d526-4830-8dde-fc1166d4e19f)
 
 ## How To Run
 
